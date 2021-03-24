@@ -13,8 +13,8 @@ II Run the Code
 
 - R files:
 
-	1. Data_final (contains data cleaning and preparation.
-	2. Pack_final (contains all needed libraries.
+	1. Data_final (contains data cleaning and preparation)
+	2. Pack_final (contains all needed libraries)
 
 	3. Jac_weight_final
 	4. Clust_final
@@ -28,4 +28,4 @@ II Run the Code
 	10.Heatmap_t4t5_final
 
 - RData files:
-contains all RData files of the R files as a shortcut option
+contains all RData files of the R files as a shortcut option; unfortunately, the RData for the clustering exceeded with 140,3 MB the max. upload volume of github. In case you are interested in this file, please contact me via mail: anna_bothe@gmx.de
