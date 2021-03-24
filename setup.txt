@@ -1,0 +1,31 @@
+I Load the Data
+
+- GTD_data_1970-2017.csv was used for the analysis; it was retrieved from: https://www.start.umd.edu/gtd/access/
+
+- The corresponding codebook is available at https://www.start.umd.edu/gtd/downloads/Codebook.pdf
+Please run the R files in the following order: 
+
+
+II Run the Code
+
+1. and 2. have to be executed before 3.-4. and 5.-6. 
+5.-6. have to be loaded in order to run 7.-10.
+
+- R files:
+
+	1. Data_final (contains data cleaning and preparation.
+	2. Pack_final (contains all needed libraries.
+
+	3. Jac_weight_final
+	4. Clust_final
+
+	5. Hotbeds_final
+	6. HeatmapPrep_final
+
+	7. Heatmap_t1t2_final
+	8. Heatmap_t2t3_final
+	9. Heatmap_t3t4t5_final
+	10.Heatmap_t4t5_final
+
+- RData files:
+contains all RData files of the R files as a shortcut option

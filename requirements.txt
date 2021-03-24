@@ -1,0 +1,18 @@
+'Libraries that have been used'
+
+#for clustering
+library("cluster")
+library("mlr") #dummy coding
+library("ParamHelpers")
+library("factoextra") #silhouette plot
+
+#for hotbeds analysis
+library("plyr")
+library("dplyr") 
+
+#for heatmaps
+library("ggplot2")
+library("lme4")
+library("RColorBrewer")
+library("Cairo") #preserves higher quality of images
+library("cowplot")
